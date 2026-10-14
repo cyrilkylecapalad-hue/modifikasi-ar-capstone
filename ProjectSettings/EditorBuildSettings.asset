@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SCENES/Modifikasi.unity
+    guid: ad699bf99458472479d9898641b964f4
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/SHOCK/OHL1.unity
+    guid: 8022fd87f0c687a42aaf9b2148006997
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/DISC/DiamondDisc.unity
+    guid: 1ac5fe0786e0e9f4cb8fb3809356d679
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/CALIPER/ADLBL.unity
+    guid: b43c3dfd928a226439459e4ddab8a7ae
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/SWING_ARM/TWPO/TWPO_BLACK_SWINGARM.unity
+    guid: 20aeeefe6fc94a34c829918e49a9d0fb
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/CALIPER/ADLRD.unity
+    guid: b05bf34d65e4a514ab2db331bf51176c
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/CALIPER/ADLGLD.unity
+    guid: ccc75fd9202be9146948e937d16c7f6b
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/CALIPER/ADLSLV.unity
+    guid: f40867a5a555a454bbb29d984eeec10a
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/SHOCK/OHL2.unity
+    guid: 6febdbf557dcf9a4392f515d038abf96
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/SWING_ARM/TWPO/TWPO_SLV_SWINGARM.unity
+    guid: 87da21fbd4a34f84e99bc0b1064f431a
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/SWING_ARM/KAMUII/KAMUII_PINK_SWINGARM.unity
+    guid: 6905c0a37e3d0cc46a2d86ca911ad618
+  - enabled: 0
+    path: Assets/SCENES/AR_3D_MODEL/SWING_ARM/KAMUII/KAMUII_BLUE_SWINGARM.unity
+    guid: d2f9786297cda6649bedbc1a909932f1
+  - enabled: 1
+    path: Assets/SCENES/AR_3D_MODEL/SWING_ARM/KAMUII/KAMUII_GRN_SWINGARM.unity
+    guid: a313e9535f27db0458bb0db6607f3db0
+  - enabled: 0
+    path: Assets/SCENES/AR_3D_MODEL/SWING_ARM/KAMUII/KAMUII_blue1_SWINGARM.unity
+    guid: 5a40337bf02229d4e865bbfcc5be26d1
+  - enabled: 1
+    path: Assets/KAMUII_blue1_SWINGARM.unity
+    guid: e3f11ae1fecb5b1449f76e2d542612be
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0b53a025a635a4393ba0b49822242280,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b07c4ba7650be4c25b3d0c497e7e2bb8,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
